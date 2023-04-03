@@ -105,7 +105,7 @@ export function Footer(props) {
             <Box component="a" href="https://react-post-ui.vercel.app/">
               react-post-ui.vercel.app
             </Box>
-            . Power by Minh Hung Le.
+            . Power by Huy Le.
           </Typography>
         </Stack>
       </Container>
